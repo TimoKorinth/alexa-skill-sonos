@@ -1,0 +1,40 @@
+{
+  "intents": [
+    {
+      "intent": "StartIntent",
+      "slots": [
+      {
+        "name" : "Sonos",
+        "type": "LIST_OF_SONOS"
+      }
+      ]
+    },
+    {
+      "intent": "StopIntent",
+      "slots": [
+      {
+        "name" : "Sonos",
+        "type": "LIST_OF_SONOS"
+      }
+      ]
+    },
+    {
+      "intent": "VolUpIntent",
+      "slots": [
+      {
+        "name" : "Sonos",
+        "type": "LIST_OF_SONOS"
+      }
+      ]
+    },
+    {
+      "intent": "VolDownIntent",
+      "slots": [
+      {
+        "name" : "Sonos",
+        "type": "LIST_OF_SONOS"
+      }
+      ]
+    }
+  ]
+}

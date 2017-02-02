@@ -1,0 +1,19 @@
+StartIntent im {Sonos} er soll angehen
+StartIntent im {Sonos} angehen
+StartIntent im {Sonos} starten
+StartIntent im {Sonos} start
+StartIntent im {Sonos} er soll starten
+StartIntent im {Sonos} er soll abspielen
+StartIntent im {Sonos} es soll angehen
+StartIntent im {Sonos} es soll starten
+StartIntent im {Sonos} es soll abspielen
+StopIntent im {Sonos} er soll ausgehen
+StopIntent im {Sonos} ausgehen
+StopIntent im {Sonos} stoppen
+StopIntent im {Sonos} pause
+StopIntent im {Sonos} stop
+StopIntent im {Sonos} er soll stoppen
+StopIntent im {Sonos} er soll pause machen
+StopIntent im {Sonos} es soll ausgehen
+StopIntent im {Sonos} es soll stoppen
+StopIntent im {Sonos} es soll pause machen
