@@ -46,7 +46,7 @@ var handlers = {
     },*/
     'StartIntent': function () {
         var sonos = this.event.request.intent.slots.Sonos.value;
-        this.emit('PushMessage', 'start' + sonsos, 'ok');
+        this.emit('PushMessage', 'start' + sonos, 'ok');
     },
     'StopIntent': function () {
         var sonos = this.event.request.intent.slots.Sonos.value;
